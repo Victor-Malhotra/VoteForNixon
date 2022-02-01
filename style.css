@@ -8,3 +8,9 @@ body {
     background-color: #ff7f50;
     font-weight: 900;
 }
+
+.smallH1Text {
+    font-size: .6rem;
+    font-weight: 800;
+    color: #c7613c;
+}
